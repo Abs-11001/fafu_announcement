@@ -2,9 +2,9 @@
 该项目用于获取FAFU官网各个机构的通知、新闻、动态等公告
 
 # 项目环境
-Python: 3.8
-Requests: 2.28.1
-BeautifulSoup: 4.11.1
+* Python: 3.8
+* Requests: 2.28.1
+* BeautifulSoup: 4.11.1
 
 # 获取源
 ## FAFU 官网首页
